@@ -1,0 +1,44 @@
+15:48:52.029 [main] INFO  testcase.My_Account_UserProfile_EditPet - ***** Started editing pet in the my pet section *******
+15:49:03.706 [main] INFO  testcase.My_Account_UserProfile_EditPet - ***** Started editing pet in the pet health section *******
+15:49:45.703 [main] INFO  testcase.My_Account_UserProfile_EditPet - ***** Started adding vet *******
+15:53:19.772 [main] INFO  testcase.Signin_Existinguser - ***** pop up Accessed successfully *******
+15:53:24.142 [main] INFO  testcase.Signin_Existinguser - ***** Log in successfully *******
+15:53:24.242 [main] INFO  testcase.My_Account_UserProfile_EditPet - ***** Started going to My account user profile *******
+15:53:34.769 [main] INFO  testcase.My_Account_UserProfile_EditPet - ***** Started viewing pet *******
+15:53:52.588 [main] INFO  testcase.My_Account_UserProfile_EditPet - ***** Started editing pet in the my pet section *******
+15:54:04.241 [main] INFO  testcase.My_Account_UserProfile_EditPet - ***** Started editing pet in the pet health section *******
+15:54:47.597 [main] INFO  testcase.My_Account_UserProfile_EditPet - ***** Started adding vet *******
+16:07:48.844 [main] INFO  testcase.Signin_Existinguser - ***** pop up Accessed successfully *******
+16:07:52.329 [main] INFO  testcase.Signin_Existinguser - ***** Log in successfully *******
+16:07:52.409 [main] INFO  testcase.My_Account_UserProfile_EditPet - ***** Started going to My account user profile *******
+16:08:02.877 [main] INFO  testcase.My_Account_UserProfile_EditPet - ***** Started viewing pet *******
+16:08:20.670 [main] INFO  testcase.My_Account_UserProfile_EditPet - ***** Started editing pet in the my pet section *******
+16:08:32.381 [main] INFO  testcase.My_Account_UserProfile_EditPet - ***** Started editing pet in the pet health section *******
+16:08:58.794 [main] INFO  testcase.My_Account_UserProfile_EditPet - ***** Started adding vet *******
+16:19:48.915 [main] INFO  testcase.Signin_Existinguser - ***** pop up Accessed successfully *******
+16:19:52.319 [main] INFO  testcase.Signin_Existinguser - ***** Log in successfully *******
+16:19:52.373 [main] INFO  testcase.My_Account_UserProfile_EditPet - ***** Started going to My account user profile *******
+16:20:02.749 [main] INFO  testcase.My_Account_UserProfile_EditPet - ***** Started viewing pet *******
+16:20:20.444 [main] INFO  testcase.My_Account_UserProfile_EditPet - ***** Started editing pet in the my pet section *******
+16:20:32.108 [main] INFO  testcase.My_Account_UserProfile_EditPet - ***** Started editing pet in the pet health section *******
+16:21:33.447 [main] INFO  testcase.My_Account_UserProfile_EditPet - ***** Started adding vet *******
+16:22:02.371 [main] INFO  testcase.My_Account_UserProfile_EditPet - ***** The process of editing pet has been successfully completed *******
+16:27:36.737 [main] INFO  testcase.Signin_Existinguser - ***** pop up Accessed successfully *******
+16:27:40.132 [main] INFO  testcase.Signin_Existinguser - ***** Log in successfully *******
+16:27:40.186 [main] INFO  testcase.My_Account_UserProfile_AddPet - ***** Started going to My account user profile & adding pet *******
+16:27:50.598 [main] INFO  testcase.My_Account_UserProfile_AddPet - ***** Started adding pet *******
+16:28:47.396 [main] INFO  testcase.My_Account_UserProfile_AddPet - ***** My pet section has been added successfully*******
+16:28:49.414 [main] INFO  testcase.My_Account_UserProfile_AddPet - ***** Pet health section adding process has been started *******
+16:32:44.473 [main] INFO  testcase.My_Account_UserProfile_AddPet - ***** Vet details adding process has been started *******
+16:33:05.814 [main] INFO  testcase.My_Account_UserProfile_AddPet - ***** Vet details added successfully *******
+16:33:22.733 [main] INFO  testcase.My_Account_UserProfile_AddPet - ***** Pet added successfully with full details *******
+16:33:22.742 [main] INFO  testcase.My_Account_UserProfile_viewPet - ***** Started going to My account user profile *******
+16:33:45.358 [main] INFO  testcase.My_Account_UserProfile_viewPet - ***** Viewed the profile successfully *******
+16:33:45.358 [main] INFO  testcase.My_Account_UserProfile_EditPet - ***** Started going to My account user profile *******
+16:33:55.633 [main] INFO  testcase.My_Account_UserProfile_EditPet - ***** Started viewing pet *******
+16:34:13.238 [main] INFO  testcase.My_Account_UserProfile_EditPet - ***** Started editing pet in the my pet section *******
+16:34:23.995 [main] INFO  testcase.My_Account_UserProfile_EditPet - ***** Started editing pet in the pet health section *******
+16:35:25.166 [main] INFO  testcase.My_Account_UserProfile_EditPet - ***** Started adding vet *******
+16:35:53.816 [main] INFO  testcase.My_Account_UserProfile_EditPet - ***** The process of editing pet has been successfully completed *******
+16:35:53.817 [main] INFO  testcase.Register_Sample_Gut - ***** Started going to My account user profile & delete the pet *******
+16:36:04.118 [main] INFO  testcase.Register_Sample_Gut - ***** Started Deleteing pet *******

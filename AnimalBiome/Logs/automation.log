@@ -1,0 +1,20 @@
+17:22:11.341 [main] INFO  testcase.Signin_Existinguser - ***** pop up Accessed successfully *******
+17:22:14.779 [main] INFO  testcase.Signin_Existinguser - ***** Log in successfully *******
+17:22:14.820 [main] INFO  testcase.Register_Sample_Gut - ***** Started going to My account user profile & delete the pet *******
+17:22:25.182 [main] INFO  testcase.Register_Sample_Gut - ***** Started Deleteing pet *******
+17:24:13.357 [main] INFO  testcase.Signin_Existinguser - ***** pop up Accessed successfully *******
+17:24:16.788 [main] INFO  testcase.Signin_Existinguser - ***** Log in successfully *******
+17:24:16.825 [main] INFO  testcase.Register_Sample_Gut - ***** Started going to My account user profile & delete the pet *******
+17:24:27.366 [main] INFO  testcase.Register_Sample_Gut - ***** Started Deleteing pet *******
+17:24:43.877 [main] INFO  testcase.Register_Sample_Gut - ***** The pet has been deleted successfully from the my account user profile section *******
+17:26:52.769 [main] INFO  testcase.Signin_Existinguser - ***** pop up Accessed successfully *******
+17:26:56.230 [main] INFO  testcase.Signin_Existinguser - ***** Log in successfully *******
+17:26:56.270 [main] INFO  testcase.Register_Sample_Gut - ***** Started going to My account user profile & delete the pet *******
+17:27:07.095 [main] INFO  testcase.Register_Sample_Gut - ***** Started Deleteing pet *******
+17:27:23.616 [main] INFO  testcase.Register_Sample_Gut - ***** The pet has been deleted successfully from the my account user profile section *******
+17:42:28.209 [main] INFO  testcase.Signin_Existinguser - ***** pop up Accessed successfully *******
+17:42:31.641 [main] INFO  testcase.Signin_Existinguser - ***** Log in successfully *******
+12:54:58.368 [main] INFO  testcase.Signin_Existinguser - ***** pop up Accessed successfully *******
+12:55:01.579 [main] INFO  testcase.Signin_Existinguser - ***** Log in successfully *******
+12:56:54.661 [main] INFO  testcase.Signin_Existinguser - ***** pop up Accessed successfully *******
+12:56:58.040 [main] INFO  testcase.Signin_Existinguser - ***** Log in successfully *******

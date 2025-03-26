@@ -1,0 +1,44 @@
+18:35:48.168 [main] INFO  testcase.My_Account_UserProfile_AddPet - ***** Vet details added successfully *******
+18:36:05.162 [main] INFO  testcase.My_Account_UserProfile_AddPet - ***** Pet added successfully with full details *******
+18:36:05.171 [main] INFO  testcase.My_Account_UserProfile_viewPet - ***** Started going to My account user profile *******
+18:36:33.822 [main] INFO  testcase.My_Account_UserProfile_EditPet - ***** Started going to My account user profile *******
+18:36:44.037 [main] INFO  testcase.My_Account_UserProfile_EditPet - ***** Started viewing pet *******
+18:37:01.348 [main] INFO  testcase.My_Account_UserProfile_EditPet - ***** Started editing pet in the pet health section *******
+18:37:07.387 [main] INFO  testcase.My_Account_UserProfile_EditPet - ***** Started adding vet *******
+18:37:07.428 [main] INFO  testcase.Register_Sample_Gut - ***** Started going to My account user profile & delete the pet *******
+18:37:17.627 [main] INFO  testcase.Register_Sample_Gut - ***** Started Deleteing pet *******
+13:47:28.535 [main] INFO  testcase.Signin_Existinguser - ***** pop up Accessed successfully *******
+13:47:31.920 [main] INFO  testcase.Signin_Existinguser - ***** Log in successfully *******
+13:47:38.986 [main] INFO  testcase.Gridview_Deactivate_Pet - ***** Started deactivate pet from grid view*******
+13:47:51.387 [main] INFO  testcase.Gridview_Deactivate_Pet - ***** Deactivate pet from the grid view successfully*******
+13:47:59.398 [main] INFO  testcase.Listview_Deactivate_Pet - ***** Started deactivate pet from list view*******
+13:48:05.613 [main] INFO  testcase.Listview_Deactivate_Pet - ***** Deactivate pet from the List view successfully*******
+13:48:13.627 [main] INFO  testcase.ViewpetGridView_DP - ***** Started viewing the deactivated pet from grid view *******
+13:48:23.828 [main] INFO  testcase.ViewpetListView_DP - ***** Started viewing the deactivated pet from list view *******
+13:48:37.697 [main] INFO  testcase.ViewpetListView_DP - ***** Viewed the deactivated pet succesfully from list view *******
+13:48:45.700 [main] INFO  testcase.AllReport_DP - ***** Started vieing report by clicking all report for deactivated pet*******
+13:49:02.190 [main] INFO  testcase.DeleteGridview_DP - ***** Started deleteing deactivated pet in the grid view*******
+13:54:55.735 [main] INFO  testcase.Signin_Existinguser - ***** pop up Accessed successfully *******
+13:54:59.138 [main] INFO  testcase.Signin_Existinguser - ***** Log in successfully *******
+13:55:06.202 [main] INFO  testcase.Gridview_Deactivate_Pet - ***** Started deactivate pet from grid view*******
+13:55:18.649 [main] INFO  testcase.Gridview_Deactivate_Pet - ***** Deactivate pet from the grid view successfully*******
+13:55:26.659 [main] INFO  testcase.Listview_Deactivate_Pet - ***** Started deactivate pet from list view*******
+13:55:32.908 [main] INFO  testcase.Listview_Deactivate_Pet - ***** Deactivate pet from the List view successfully*******
+13:55:40.922 [main] INFO  testcase.ViewpetGridView_DP - ***** Started viewing the deactivated pet from grid view *******
+13:55:56.942 [main] INFO  testcase.ViewpetGridView_DP - ***** Viewed the deactivated pet succesfully from grid view *******
+13:56:04.950 [main] INFO  testcase.ViewpetListView_DP - ***** Started viewing the deactivated pet from list view *******
+13:56:18.903 [main] INFO  testcase.ViewpetListView_DP - ***** Viewed the deactivated pet succesfully from list view *******
+13:56:26.918 [main] INFO  testcase.AllReport_DP - ***** Started vieing report by clicking all report for deactivated pet*******
+13:56:46.393 [main] INFO  testcase.AllReport_DP - ***** Viewed the report successfully for deactivated pet*******
+13:56:54.409 [main] INFO  testcase.DeleteGridview_DP - ***** Started deleteing deactivated pet in the grid view*******
+13:57:13.104 [main] INFO  testcase.DeleteGridview_DP - ***** Deactivated pet deleted successfully in the grid view *******
+13:57:21.123 [main] INFO  testcase.DeleteListview_DP - ***** Started deleteing deactivated pet in the List view*******
+13:57:31.696 [main] INFO  testcase.DeleteListview_DP - ***** Deactivated pet deleted successfully in the grid view *******
+13:57:52.030 [main] INFO  testcase.RegisterSample_AddPet - ***** Started adding pet *******
+13:58:06.331 [main] INFO  testcase.Register_Sample_Gut - ***** Gut sample registration process has been started*******
+13:58:22.382 [main] INFO  testcase.Register_Sample_Oral - ***** Oral sample registration process has been started*******
+13:58:22.407 [main] INFO  testcase.My_Account_Register_Sample - ***** Gut sample registration process has been started*******
+13:59:42.953 [main] INFO  testcase.Signin_Existinguser - ***** pop up Accessed successfully *******
+13:59:46.377 [main] INFO  testcase.Signin_Existinguser - ***** Log in successfully *******
+14:00:06.690 [main] INFO  testcase.RegisterSample_AddPet - ***** Started adding pet *******
+14:01:10.686 [main] INFO  testcase.RegisterSample_AddPet - ***** My Pet details has been added successfully *******
